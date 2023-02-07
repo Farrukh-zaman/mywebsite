@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    background-color: lightgray !important;
+}
+
+ul > li > a:hover {
+    color: white !important;
+}
+
+.col-lg-5 {
+    box-shadow: 0px 3px 4px rgb(106, 105, 105) !important;
+}
+
+.head {
+    font-family: 'Dancing Script', cursive;
+}
+
+.col-11 > h1 {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Pacifico', cursive; 
+    text-shadow: 1px 1px 3.5px black;
+    font-size: 3em;
+}
+
+#box, #box4 {
+    box-shadow: 1px 1px 5px  rgb(103, 102, 102);
+}
+
+#one, #two, #three, #four {
+    font-family: 'Dancing Script', cursive;
+}
+
+.web {
+    color: blueviolet;
+}
+
+.underline {
+    font-size: 22px;
+}
+
+#download {
+    text-decoration: none;
+}
+
+#para1 {
+    line-height: 2em;
+}
